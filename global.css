@@ -1,0 +1,22 @@
+:root {
+  /* fonts */
+  --font-leelawadee-ui: "Leelawadee UI";
+  --font-outfit: Outfit;
+
+  /* font sizes */
+  --font-size-base: 24px;
+  --font-size-lg: 32px;
+  --font-size-xl: 36px;
+  --font-size-2xl: 40px;
+  --font-size-3xl: 48px;
+  --font-size-4xl: 64px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-violet-100: #ff4891;
+  --color-violet-200: #ff4791;
+  --color-black: #000;
+
+  /* border radiuses */
+  --br-md: 5px;
+}

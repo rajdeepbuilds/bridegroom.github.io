@@ -1,0 +1,729 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.company-div,
+.more-div,
+.need-help-div,
+.privacy-you {
+  position: absolute;
+  top: 0;
+  left: 160px;
+  line-height: 159.01%;
+  display: inline-block;
+  width: 265px;
+  height: 66px;
+}
+.company-div,
+.more-div,
+.privacy-you {
+  left: 440px;
+}
+.more-div,
+.privacy-you {
+  left: 727px;
+}
+.more-div {
+  left: 1007px;
+}
+.member-login-p {
+  margin-block-start: 0;
+  margin-block-end: 15px;
+}
+.about-us-blog-careers-membersh,
+.member-login-sign-up-partner-s {
+  position: absolute;
+  top: 127px;
+  left: 160px;
+  line-height: 106.51%;
+  display: inline-block;
+  width: 265px;
+}
+.about-us-blog-careers-membersh {
+  left: 440px;
+}
+.report-misuse {
+  margin: 0;
+}
+.marriage-center-guidelines-faq,
+.terms-of-use-privacy-policy-be {
+  position: absolute;
+  top: 127px;
+  left: 730px;
+  line-height: 106.51%;
+  display: inline-block;
+  width: 265px;
+}
+.marriage-center-guidelines-faq {
+  left: 1020px;
+}
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-violet-200);
+  width: 1440px;
+  height: 128px;
+}
+.created-with-love-by-rajdeep-d {
+  position: absolute;
+  top: 34px;
+  left: 730px;
+  line-height: 106.51%;
+  display: inline-block;
+  width: 476px;
+  height: 41px;
+}
+.bridegroom-p {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.bridegroom-div {
+  position: absolute;
+  top: 34px;
+  left: 255px;
+  line-height: 106.51%;
+  display: inline-block;
+  width: 278px;
+  height: 41px;
+}
+.group-div1 {
+  position: absolute;
+  top: 471px;
+  left: 0;
+  width: 1440px;
+  height: 128px;
+  text-align: left;
+  color: var(--color-white);
+}
+.group-div {
+  top: 143px;
+  height: 599px;
+}
+.group-div,
+.need-help-address,
+.rectangle-div1 {
+  position: absolute;
+  left: 0;
+  width: 1440px;
+}
+.need-help-address {
+  top: 4572px;
+  height: 739px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-leelawadee-ui);
+}
+.rectangle-div1 {
+  top: 0;
+  background-color: var(--color-violet-200);
+  height: 163px;
+}
+.bride-groom-worlds-largest-m {
+  position: absolute;
+  top: 28px;
+  left: 377px;
+  font-size: var(--font-size-xl);
+  line-height: 159.01%;
+  display: inline-block;
+  font-family: var(--font-leelawadee-ui);
+  color: var(--color-white);
+  text-align: center;
+  width: 686px;
+  height: 108px;
+}
+.b-4-icon,
+.group-div2 {
+  position: absolute;
+  top: 540px;
+  left: 0;
+  width: 1440px;
+  height: 163px;
+}
+.b-4-icon {
+  top: 189px;
+  left: 549px;
+  border-radius: var(--br-md);
+  width: 342px;
+  height: 327px;
+  object-fit: cover;
+}
+.dont-just-listen-others-stor {
+  position: absolute;
+  top: 53px;
+  left: 160px;
+  font-size: var(--font-size-xl);
+  line-height: 159.01%;
+  display: inline-block;
+  font-family: var(--font-leelawadee-ui);
+  color: var(--color-white);
+  text-align: center;
+}
+.group-div3 {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  width: 1440px;
+  height: 163px;
+}
+.rectangle-div3,
+.sign-up-b {
+  position: absolute;
+  left: 1110px;
+  width: 170px;
+}
+.rectangle-div3 {
+  top: 55px;
+  border-radius: var(--br-md);
+  background-color: var(--color-white);
+  height: 64px;
+}
+.sign-up-b {
+  top: 57px;
+  font-size: var(--font-size-xl);
+  line-height: 159.01%;
+  display: inline-block;
+  font-family: var(--font-leelawadee-ui);
+  color: var(--color-violet-200);
+  text-align: center;
+  height: 55px;
+}
+.dont-listen-nav {
+  position: absolute;
+  top: 3875px;
+  left: 0;
+  width: 1440px;
+  height: 697px;
+  overflow: hidden;
+}
+.we-would-like-to-share-our-suc {
+  position: absolute;
+  top: 71px;
+  left: 350px;
+  display: inline-block;
+  width: 740px;
+}
+.rectangle-div4,
+.rectangle-div5,
+.rectangle-div6 {
+  position: absolute;
+  top: 202px;
+  left: 160px;
+  background-color: var(--color-black);
+  width: 360px;
+  height: 919px;
+}
+.rectangle-div5,
+.rectangle-div6 {
+  left: 540px;
+}
+.rectangle-div6 {
+  left: 920px;
+}
+.group-icon,
+.mask-group-div {
+  position: absolute;
+  top: 202px;
+  left: 160px;
+  width: 360px;
+  height: 360px;
+}
+.group-icon {
+  top: 201px;
+  width: 1120px;
+  height: 361px;
+  object-fit: cover;
+}
+.jbieber-selena,
+.weeknd-selena,
+.zayn-gigi {
+  position: absolute;
+  top: 0;
+  left: 75px;
+  display: inline-block;
+  width: 210px;
+  height: 43px;
+}
+.jbieber-selena,
+.weeknd-selena {
+  left: 417px;
+  width: 285px;
+}
+.weeknd-selena {
+  left: 797px;
+}
+.i-zayn-malik-personally-love {
+  top: 78px;
+  left: 0;
+}
+.being-a-famous-singer-i-was-a,
+.i-zayn-malik-personally-love,
+.when-i-first-used-this-website {
+  position: absolute;
+  font-size: var(--font-size-base);
+  line-height: 159.01%;
+  display: inline-block;
+  width: 360px;
+  height: 449px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.when-i-first-used-this-website {
+  border: 0;
+  background-color: transparent;
+  top: 75px;
+  left: 380px;
+  font-weight: 700;
+  font-family: var(--font-leelawadee-ui);
+  color: var(--color-violet-200);
+  text-align: center;
+}
+.being-a-famous-singer-i-was-a {
+  top: 72px;
+  left: 760px;
+}
+.group-div4 {
+  position: absolute;
+  top: 594px;
+  left: 160px;
+  width: 1120px;
+  height: 527px;
+  font-size: var(--font-size-lg);
+}
+.share-our-success {
+  position: absolute;
+  top: 2570px;
+  left: 0;
+  width: 1440px;
+  height: 1307px;
+  overflow: hidden;
+  font-size: 45px;
+  color: var(--color-violet-200);
+}
+.rectangle-div7 {
+  position: absolute;
+  top: 1px;
+  left: -4px;
+  background-color: var(--color-violet-200);
+  width: 1447px;
+  height: 935px;
+}
+.we-have-helped-to-create-thous {
+  position: absolute;
+  top: 654px;
+  left: 160px;
+  display: inline-block;
+  width: 1120px;
+  height: 301px;
+}
+.untitled-1120-577-px-1 {
+  position: absolute;
+  top: 113.5px;
+  left: 159.5px;
+  width: 1121px;
+  height: 554px;
+  object-fit: cover;
+}
+.irst-meet-then {
+  font-size: var(--font-size-3xl);
+}
+.first-meet-then-greet {
+  position: absolute;
+  top: 45px;
+  left: 415px;
+  display: inline-block;
+  width: 590px;
+  height: 103px;
+  font-size: var(--font-size-4xl);
+}
+.first-meet-and-greet {
+  position: absolute;
+  top: 1634px;
+  left: 0;
+  width: 1440px;
+  height: 934px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-leelawadee-ui);
+}
+.ellipse-icon,
+.ellipse-icon1,
+.ellipse-icon2 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 210px;
+  height: 210px;
+}
+.ellipse-icon1,
+.ellipse-icon2 {
+  top: 0;
+  left: 408px;
+}
+.ellipse-icon2 {
+  left: 807px;
+}
+.egister-span {
+  font-size: var(--font-size-2xl);
+}
+.explore-div,
+.interact-div,
+.register-div {
+  position: absolute;
+  top: 238px;
+  left: 26px;
+  display: inline-block;
+}
+.explore-div,
+.interact-div {
+  top: 239px;
+  left: 442px;
+}
+.interact-div {
+  top: 238px;
+  left: 841px;
+}
+.group-icon1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.ellipse-icon3 {
+  top: 0;
+  left: 0;
+  width: 50px;
+  height: 46px;
+}
+.b,
+.ellipse-icon3,
+.group-div7 {
+  position: absolute;
+}
+.b {
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 49px;
+  height: 36px;
+}
+.group-div7 {
+  top: 176px;
+  left: 80px;
+  width: 50px;
+  height: 46px;
+}
+.frame-div,
+.vector-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 210px;
+  height: 210px;
+}
+.vector-icon {
+  height: 51.22%;
+  width: 47.59%;
+  top: 23.9%;
+  right: 24.97%;
+  bottom: 24.88%;
+  left: 27.44%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-div6 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 210px;
+  height: 210px;
+  font-size: var(--font-size-lg);
+}
+.group-icon2,
+.group-icon3,
+.group-icon4,
+.group-icon5,
+.group-icon6 {
+  position: absolute;
+  height: 64.81%;
+  width: 20.65%;
+  top: 0;
+  right: 0;
+  bottom: 35.19%;
+  left: 79.35%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-icon3,
+.group-icon4,
+.group-icon5,
+.group-icon6 {
+  height: 20.06%;
+  width: 4.96%;
+  top: 32.41%;
+  right: 10.77%;
+  bottom: 47.53%;
+  left: 84.27%;
+}
+.group-icon4,
+.group-icon5,
+.group-icon6 {
+  height: 20.04%;
+  right: 5.36%;
+  bottom: 47.55%;
+  left: 89.68%;
+}
+.group-icon5,
+.group-icon6 {
+  height: 16.47%;
+  width: 8.27%;
+  top: 11.42%;
+  right: 6.18%;
+  bottom: 72.11%;
+  left: 85.55%;
+}
+.group-icon6 {
+  height: 64.81%;
+  width: 20.65%;
+  top: 0.31%;
+  right: 39.13%;
+  bottom: 34.88%;
+  left: 40.22%;
+}
+.group-div8,
+.group-div9 {
+  position: absolute;
+  top: 177px;
+  left: 495px;
+  width: 50px;
+  height: 46px;
+  font-size: var(--font-size-lg);
+}
+.group-div9 {
+  left: 882px;
+}
+.group-div5 {
+  position: absolute;
+  top: 35px;
+  left: 211px;
+  width: 1017px;
+  height: 324px;
+}
+.register-explore-interact {
+  position: absolute;
+  top: 1260px;
+  left: 0;
+  width: 1440px;
+  height: 375px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-4xl);
+  color: var(--color-black);
+  font-family: var(--font-leelawadee-ui);
+}
+.bride-groom-div {
+  position: absolute;
+  top: 362px;
+  left: 575px;
+  display: inline-block;
+}
+.b-5-icon {
+  position: absolute;
+  top: 24px;
+  left: 549px;
+  border-radius: var(--br-md);
+  width: 342px;
+  height: 327px;
+  object-fit: cover;
+}
+.bg-logo-header {
+  position: absolute;
+  top: 766px;
+  left: 0;
+  width: 1440px;
+  height: 463px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-4xl);
+  color: var(--color-black);
+  font-family: var(--font-leelawadee-ui);
+}
+.rectangle-div8 {
+  position: absolute;
+  top: 2px;
+  left: -4px;
+  background-color: var(--color-violet-100);
+  filter: blur(0);
+  width: 1444px;
+  height: 108px;
+}
+.happy-marriage-b {
+  position: absolute;
+  top: 23px;
+  left: 535px;
+  display: inline-block;
+}
+.happy-marriage-div {
+  position: absolute;
+  top: 659px;
+  left: 0;
+  width: 1440px;
+  height: 109px;
+  overflow: hidden;
+}
+.rectangle-button {
+  cursor: pointer;
+  border: 5px solid var(--color-black);
+  padding: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  top: 53px;
+  left: 730px;
+  border-radius: var(--br-md);
+  box-sizing: border-box;
+  width: 213px;
+  height: 52px;
+}
+.login-div {
+  position: absolute;
+  top: 57px;
+  left: 775px;
+  display: inline-block;
+  width: 123px;
+}
+.ellipse-icon6,
+.ellipse-icon7 {
+  position: absolute;
+  height: 19.11%;
+  width: 7.64%;
+  top: 5.36%;
+  right: 52.22%;
+  bottom: 75.54%;
+  left: 40.14%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.ellipse-icon7 {
+  height: 19.64%;
+  width: 7.99%;
+  top: 24.82%;
+  right: 52.08%;
+  bottom: 55.54%;
+  left: 39.93%;
+}
+.rectangle-button1 {
+  cursor: pointer;
+  border: 5px solid #010101;
+  padding: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  top: 168px;
+  left: 730px;
+  border-radius: var(--br-md);
+  box-sizing: border-box;
+  width: 213px;
+  height: 52px;
+}
+.help-div {
+  position: absolute;
+  top: 172px;
+  left: 792px;
+  display: inline-block;
+}
+.group-icon8 {
+  position: absolute;
+  height: 19.69%;
+  width: 7.98%;
+  top: 24.82%;
+  right: 52.09%;
+  bottom: 55.49%;
+  left: 39.93%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.dalle-2022-11-23-1630-1 {
+  position: absolute;
+  top: 0;
+  left: 391px;
+  width: 657px;
+  height: 560px;
+  object-fit: cover;
+  mix-blend-mode: multiply;
+}
+.help-login-page,
+.rectangle-div9 {
+  position: absolute;
+  left: 0;
+  width: 1440px;
+}
+.help-login-page {
+  top: 102px;
+  height: 560px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-outfit);
+}
+.rectangle-div9 {
+  top: 0;
+  background-color: var(--color-violet-100);
+  height: 100px;
+  mix-blend-mode: normal;
+}
+.b-3-icon {
+  position: absolute;
+  top: 0;
+  left: 641px;
+  width: 154px;
+  height: 110px;
+  object-fit: cover;
+}
+.bride,
+.groom-b {
+  position: absolute;
+  top: 14px;
+  left: 804px;
+  display: inline-block;
+}
+.bride {
+  left: 493px;
+}
+.frame-div1,
+.top-bar-div {
+  position: absolute;
+  top: 101px;
+  left: 0;
+  width: 1440px;
+  height: 561px;
+  overflow: hidden;
+}
+.top-bar-div {
+  top: 0;
+  height: 101px;
+  text-align: left;
+}
+.desktop-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 5314px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+  font-family: var(--font-leelawadee-ui);
+}
