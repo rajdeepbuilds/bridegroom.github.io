@@ -7,7 +7,7 @@ body {
 .need-help-div,
 .privacy-you {
   position: absolute;
-  top: 0;
+  top: 1;
   left: 160px;
   line-height: 159.01%;
   display: inline-block;
